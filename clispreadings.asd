@@ -7,7 +7,8 @@
   :license "BSD"
   :depends-on (#:ningle
                #:hunchentoot
-               #:dbi)
+               #:dbi
+               #:yason)
   :components ((:file "package")
                (:file "clispreadings")))
 

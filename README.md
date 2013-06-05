@@ -24,7 +24,7 @@ Start up sbcl
 (quicklisp-quickstart:install)
 (ql:add-to-init-file)
 ```
-Now, quicklisp is added to .sblcrc.
+Now, quicklisp is added to .sbclrc.
 
 Use it to load clispreadings:
 ```
