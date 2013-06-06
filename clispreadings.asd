@@ -6,9 +6,10 @@
   :author "rohshall@gmail.com"
   :license "BSD"
   :depends-on (#:ningle
+               #:clack
                #:hunchentoot
                #:dbi
-               #:yason)
+               #:st-json)
   :components ((:file "package")
                (:file "clispreadings")))
 
