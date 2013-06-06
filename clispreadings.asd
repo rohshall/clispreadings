@@ -9,7 +9,7 @@
                #:clack
                #:hunchentoot
                #:dbi
-               #:st-json)
+               #:cl-json)
   :components ((:file "package")
                (:file "clispreadings")))
 
